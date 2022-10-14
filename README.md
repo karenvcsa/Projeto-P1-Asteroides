@@ -1,3 +1,3 @@
 # Projeto-P1-Asteroides
 
-TESTE DE MODIFICAÇÃO
+Projeto de um Sistema Iterativo para a cadeira de Programação 1 na UFPE.
